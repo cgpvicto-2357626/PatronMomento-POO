@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace MementoDemo
+﻿namespace MementoDemo
 {
 
     /// <summary>
-    /// Program pour la demo du patron memonto
+    /// Program pour la demo du patron memento
     /// </summary>
     class Program
     {

@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace MementoDemo
+﻿namespace MementoDemo
 {
     /// <summary>
     /// Caretaker: garde les mementos dans une pile
